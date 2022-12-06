@@ -11,4 +11,4 @@
 
 ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=R0HAN44&theme=radical&hide_border=true&show_icons=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=R0HAN44&theme=radical&hide_border=true&border_radius=10)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R0HAN44&layout=compact&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=R0HAN44&theme=radical&hide_border=true&border_radius=10)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R0HAN44&layout=compact&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
